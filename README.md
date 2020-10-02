@@ -1,11 +1,11 @@
 # CDN
 
-> YunYouJun CDN by jsDelivr
+> My CDN by jsDelivr
 
-- GitHub: <https://github.com/YunYouJun/cdn>
-- GitHub CDN: <https://github.com/YunYouJun/cdn/raw/master>
-- GitHub CDN Alias: <https://cdn.yunyoujun.cn>
-- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/YunYouJun/cdn>
+- GitHub: <https://github.com/ljc2860324736/cdn>
+- GitHub CDN: <https://github.com/ljc2860324736/cdn/raw/master>
+- GitHub CDN Alias: <https://cdn.ljc2860324736.cn>
+- jsDelivr CDN: <https://cdn.jsdelivr.net/gh/ljc2860324736/cdn>
 - jsDelivr CDN Alias: <https://cdn.elpsy.cn>
 
 ## Fonts
